@@ -29,7 +29,7 @@ Facial recognition-based driver authentication system for enhanced vehicle secur
 ---
 
 ### NeuroDrive Dashboard
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NueroDrive)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)]([https://github.com/youssef47048/NueroDrive](https://github.com/youssef47048/NueroDrive/tree/main/NeuroDrive_13_5_2025))
 
 Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
 
