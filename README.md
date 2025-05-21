@@ -45,7 +45,7 @@ Modern Qt/QML-based dashboard application for vehicles with facial recognition a
 ---
 
 ### Event Management System
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/Event_Management_System)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/ATC_01021547048)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-blue?style=for-the-badge&logo=microsoft-edge)](https://eventu.runasp.net/)
 
 Comprehensive platform for creating, booking, and managing events with multilingual support.
