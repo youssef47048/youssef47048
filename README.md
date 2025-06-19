@@ -12,7 +12,7 @@ I'm a passionate Software developer with expertise in ASP.NET Core, C#, and web 
 ## 🚀 My Projects
 
 ### NueroDrive - Secure Vehicle Authentication
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NEURODRIVE-WEB-APP/tree/main/NueroDrive)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NEURODRIVE-WEB-APP/tree/main))
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-blue?style=for-the-badge&logo=microsoft-edge)](https://neurodrive.runasp.net/)
 
 Facial recognition-based driver authentication system for enhanced vehicle security.
