@@ -28,21 +28,6 @@ Facial recognition-based driver authentication system for enhanced vehicle secur
 
 ---
 
-### NeuroDrive Dashboard
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)]((https://github.com/youssef47048/NueroDrive/tree/main/NeuroDrive_13_5_2025))
-
-Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
-
-**Technologies:** Qt 6.8, QML, C++, CMake
-
-**Key Features:**
-- 🔒 Secure driver verification with facial recognition
-- 🌓 Modern UI with dark/light mode support
-- 🚦 Traffic sign recognition and lane detection
-- 😴 Driver drowsiness and distraction monitoring
-- 📱 Responsive interface for vehicle displays
-
----
 
 ### Event Management System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/ATC_01021547048)
@@ -88,6 +73,23 @@ Integration of a Verilog-based ALU with Qt GUI using ModelSim for hardware simul
 - 🧮 ALU operations (Add, Subtract, AND, OR)
 - 🖥️ Interactive GUI for controlling ALU
 - 📊 Real-time result visualization
+
+
+### NeuroDrive Dashboard
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NueroDrive/tree/main/NeuroDrive_13_5_2025)
+
+Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
+
+**Technologies:** Qt 6.8, QML, C++, CMake
+
+**Key Features:**
+- 🔒 Secure driver verification with facial recognition
+- 🌓 Modern UI with dark/light mode support
+- 🚦 Traffic sign recognition and lane detection
+- 😴 Driver drowsiness and distraction monitoring
+- 📱 Responsive interface for vehicle displays
+
+---
 
 ## 💼 Technical Skills
 
