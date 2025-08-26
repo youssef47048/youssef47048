@@ -75,6 +75,24 @@ Integration of a Verilog-based ALU with Qt GUI using ModelSim for hardware simul
 - 📊 Real-time result visualization
 
 
+### Sustainability Compass - AI-Powered ESG Analytics
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/Sustainability-Compass)
+
+Comprehensive desktop application for analyzing company sustainability performance using AI-powered ESG analysis and UN SDG mapping.
+
+**Technologies:** Python, Google Gemini AI, CustomTkinter, Plotly, ReportLab, pandas
+
+**Key Features:**
+- 🤖 AI-powered ESG (Environmental, Social, Governance) analysis using Gemini AI
+- 🎯 Complete mapping to all 17 UN Sustainable Development Goals
+- 📄 Multi-language PDF processing (English/Arabic)
+- 📊 Interactive dashboards and professional visualizations
+- 📋 Export reports in PDF, Word, and Excel formats
+- 📈 Multi-year comparison and trend analysis
+- 🌐 Bilingual support with automatic language detection
+
+---
+
 ### NeuroDrive Dashboard
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
 
@@ -107,6 +125,8 @@ Modern Qt/QML-based dashboard application for vehicles with facial recognition a
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-3C8A3F?style=for-the-badge&logo=qt&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 💻 Competitive Programming
 
