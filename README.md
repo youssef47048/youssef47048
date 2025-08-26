@@ -76,7 +76,9 @@ Integration of a Verilog-based ALU with Qt GUI using ModelSim for hardware simul
 
 
 ### NeuroDrive Dashboard
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NueroDrive/tree/main/NeuroDrive_13_5_2025)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
+
+https://github.com/neurodrrive/gui
 
 Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
 
