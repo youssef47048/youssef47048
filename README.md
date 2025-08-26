@@ -28,6 +28,40 @@ Facial recognition-based driver authentication system for enhanced vehicle secur
 
 ---
 
+### Sustainability Compass - AI-Powered ESG Analytics
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/Sustainability-Compass)
+
+Comprehensive desktop application for analyzing company sustainability performance using AI-powered ESG analysis and UN SDG mapping.
+
+**Technologies:** Python, Google Gemini AI, CustomTkinter, Plotly, ReportLab, pandas
+
+**Key Features:**
+- 🤖 AI-powered ESG (Environmental, Social, Governance) analysis using Gemini AI
+- 🎯 Complete mapping to all 17 UN Sustainable Development Goals
+- 📄 Multi-language PDF processing (English/Arabic)
+- 📊 Interactive dashboards and professional visualizations
+- 📋 Export reports in PDF, Word, and Excel formats
+- 📈 Multi-year comparison and trend analysis
+- 🌐 Bilingual support with automatic language detection
+
+---
+
+### NeuroDrive Dashboard
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
+
+
+Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
+
+**Technologies:** Qt 6.8, QML, C++, CMake
+
+**Key Features:**
+- 🔒 Secure driver verification with facial recognition
+- 🌓 Modern UI with dark/light mode support
+- 🚦 Traffic sign recognition and lane detection
+- 😴 Driver drowsiness and distraction monitoring
+- 📱 Responsive interface for vehicle displays
+
+---
 
 ### Event Management System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/ATC_01021547048)
@@ -73,42 +107,8 @@ Integration of a Verilog-based ALU with Qt GUI using ModelSim for hardware simul
 - 🧮 ALU operations (Add, Subtract, AND, OR)
 - 🖥️ Interactive GUI for controlling ALU
 - 📊 Real-time result visualization
-
-
-### Sustainability Compass - AI-Powered ESG Analytics
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/Sustainability-Compass)
-
-Comprehensive desktop application for analyzing company sustainability performance using AI-powered ESG analysis and UN SDG mapping.
-
-**Technologies:** Python, Google Gemini AI, CustomTkinter, Plotly, ReportLab, pandas
-
-**Key Features:**
-- 🤖 AI-powered ESG (Environmental, Social, Governance) analysis using Gemini AI
-- 🎯 Complete mapping to all 17 UN Sustainable Development Goals
-- 📄 Multi-language PDF processing (English/Arabic)
-- 📊 Interactive dashboards and professional visualizations
-- 📋 Export reports in PDF, Word, and Excel formats
-- 📈 Multi-year comparison and trend analysis
-- 🌐 Bilingual support with automatic language detection
-
 ---
 
-### NeuroDrive Dashboard
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
-
-
-Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
-
-**Technologies:** Qt 6.8, QML, C++, CMake
-
-**Key Features:**
-- 🔒 Secure driver verification with facial recognition
-- 🌓 Modern UI with dark/light mode support
-- 🚦 Traffic sign recognition and lane detection
-- 😴 Driver drowsiness and distraction monitoring
-- 📱 Responsive interface for vehicle displays
-
----
 
 ## 💼 Technical Skills
 
