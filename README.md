@@ -11,7 +11,7 @@ I'm a passionate Software developer with expertise in ASP.NET Core, C#, and web 
 
 ## 🚀 My Projects
 
-### NueroDrive - Secure Vehicle Authentication
+### NueroDrive Web Application - Part of graduation project
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/NEURODRIVE-WEB-APP/tree/main))
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-blue?style=for-the-badge&logo=microsoft-edge)](https://neurodrive.runasp.net/)
 
@@ -25,6 +25,23 @@ Facial recognition-based driver authentication system for enhanced vehicle secur
 - 👥 Multiple authorized drivers support
 - 📱 Responsive design for mobile access
 - 📧 Real-time email notifications for unauthorized access
+
+---
+
+### NeuroDrive QT Dashboard - Part of graduation project
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
+
+
+Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
+
+**Technologies:** Qt 6.8, QML, C++, CMake
+
+**Key Features:**
+- 🔒 Secure driver verification with facial recognition
+- 🌓 Modern UI with dark/light mode support
+- 🚦 Traffic sign recognition and lane detection
+- 😴 Driver drowsiness and distraction monitoring
+- 📱 Responsive interface for vehicle displays
 
 ---
 
@@ -46,22 +63,6 @@ Comprehensive desktop application for analyzing company sustainability performan
 
 ---
 
-### NeuroDrive Dashboard
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/neurodrrive/gui)
-
-
-Modern Qt/QML-based dashboard application for vehicles with facial recognition and advanced monitoring.
-
-**Technologies:** Qt 6.8, QML, C++, CMake
-
-**Key Features:**
-- 🔒 Secure driver verification with facial recognition
-- 🌓 Modern UI with dark/light mode support
-- 🚦 Traffic sign recognition and lane detection
-- 😴 Driver drowsiness and distraction monitoring
-- 📱 Responsive interface for vehicle displays
-
----
 
 ### Event Management System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/ATC_01021547048)
@@ -109,6 +110,8 @@ Integration of a Verilog-based ALU with Qt GUI using ModelSim for hardware simul
 - 📊 Real-time result visualization
 ---
 
+### RTL to GDSII implementation of Successive-approximation-register ADCs
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/youssef47048/SAR-ADC-Logic-Control)
 
 ## 💼 Technical Skills
 
